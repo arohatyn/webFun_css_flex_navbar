@@ -1,0 +1,33 @@
+* {
+    font-family: 'Montserrat';
+    padding: 1px;
+}
+div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+div {
+    background-color: rgb(102, 171, 214);
+}
+a {
+    color: white;
+}
+img {
+    max-width: 50%;
+    max-height: 50%;
+    height: auto;
+}
+h1 {
+    color: white;
+}
+li {
+    list-style-type: none;
+    margin-left: 40px;
+    margin-right: 40px;
+}
